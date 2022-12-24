@@ -1,0 +1,9 @@
+102,Sanika Sawant,9011741257,sanu@gmail.com,HR,Ch operations,90000,2022-09-18
+103,Payal Mishra,7709706145,payal@gmail.com,Product,Ch executive,60000,2022-09-18
+104,Akanksha Yadav,95023222223,ak@gmail.com,HR,Compliance,80000,2022-09-19
+105,Neha Patil,7984512368,neha@gmail.com,Research,Financial,90000,2022-09-19
+106,Amrutha Khairnar,9031245678,amru@gmail.com,Infra,Network,60000,2022-09-20
+107,Aparna Mahajan,9032165497,aparna@gmail.com,Security,Network,40000,2022-09-20
+108,Shravni Utekar,7418529630,su@gmail.com,Accounts,Sales,60000,2022-09-21
+109,Harshali Patil,9654123045,hp@gmail.com,finance,sales,30000,2022-09-21
+110,pratik palkar,7845121245,pp@gmail.com,it,sals,60000,2022-09-21
